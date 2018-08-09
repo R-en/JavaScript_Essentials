@@ -28,6 +28,15 @@ function runTimer() {
 // Match the text entered with the provided text on the page:
 function spellCheck() {
     let textEntered = testArea.value;
+    let textEnteredMatch = originText.substring(0,textEntered.length);
+
+    if(textEntered == originText){
+      testWrapper.style.borderColor = "#429890";//green if completed
+    }else if (textEntered == textEnteredMatch) {
+      testWrapper.style.borderColor = "#65CCF3";//blue if correct but incomplete
+    }else{
+      testWrapper.style.borderColor = "#E95D0F";//incorrect
+    }
 
     console.log(textEntered);
 }
