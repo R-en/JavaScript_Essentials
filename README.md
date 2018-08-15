@@ -11,10 +11,10 @@ The idea was to practice more JavaScript.
     <li>Minifying JavaScript</li>
 </ul>
 
-<p>To run the Analog Clock, go to <b>Ex_Files_JavaScript_EssT\analogClock</b>, and open <b>index.html</b>with your favorite broswer.</P>
+To run the Analog Clock, go to <b>Ex_Files_JavaScript_EssT\analogClock</b>, and open <b>index.html</b>with your favorite broswer.
 ![](images/clock.PNG)
 
-<p>To run the Typing Speed Test, go to <b>Ex_Files_JavaScript_EssT\typingSpeedTest</b>, and open <b>index.html</b>with your favorite broswer.</P>
+To run the Typing Speed Test, go to <b>Ex_Files_JavaScript_EssT\typingSpeedTest</b>, and open <b>index.html</b>with your favorite broswer.
 ![](images/typingSpeedTest.PNG)
 
 
