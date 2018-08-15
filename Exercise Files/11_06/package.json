@@ -1,0 +1,18 @@
+{
+  "name": "11_06",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
